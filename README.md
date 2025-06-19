@@ -8,6 +8,7 @@ This is a repository of all of my accepted LeetCode solutions. All LeetCode prob
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/WilliamCook0811/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/WilliamCook0811/LeetCode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/WilliamCook0811/LeetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Hash Table
 |  |
