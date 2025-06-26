@@ -31,4 +31,12 @@ This is a repository of all of my accepted LeetCode solutions. All LeetCode prob
 |  |
 | ------- |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/WilliamCook0811/LeetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+## Math
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/WilliamCook0811/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
+## String
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/WilliamCook0811/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
