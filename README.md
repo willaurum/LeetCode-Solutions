@@ -14,6 +14,7 @@ This is a repository of all of my accepted LeetCode solutions. All LeetCode prob
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/WilliamCook0811/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/WilliamCook0811/LeetCode-Solutions/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -35,8 +36,13 @@ This is a repository of all of my accepted LeetCode solutions. All LeetCode prob
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/WilliamCook0811/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/WilliamCook0811/LeetCode-Solutions/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/WilliamCook0811/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/WilliamCook0811/LeetCode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
