@@ -37,6 +37,7 @@ This is a repository of all of my accepted LeetCode solutions. All LeetCode prob
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/WilliamCook0811/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/WilliamCook0811/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0492-construct-the-rectangle](https://github.com/WilliamCook0811/LeetCode-Solutions/tree/master/0492-construct-the-rectangle) |
 ## String
 |  |
 | ------- |
