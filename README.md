@@ -38,6 +38,7 @@ This is a repository of all of my accepted LeetCode solutions. All LeetCode prob
 | [0168-excel-sheet-column-title](https://github.com/WilliamCook0811/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/WilliamCook0811/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0492-construct-the-rectangle](https://github.com/WilliamCook0811/LeetCode-Solutions/tree/master/0492-construct-the-rectangle) |
+| [0509-fibonacci-number](https://github.com/willaurum/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -46,4 +47,16 @@ This is a repository of all of my accepted LeetCode solutions. All LeetCode prob
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/WilliamCook0811/LeetCode-Solutions/tree/master/0202-happy-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/willaurum/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/willaurum/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/willaurum/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
